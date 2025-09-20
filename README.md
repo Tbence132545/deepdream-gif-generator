@@ -3,9 +3,11 @@
 A user-friendly desktop application to generate DeepDream animations from images. This tool uses TensorFlow and a pre-trained VGG19 model to create visuals with a simple drag-and-drop interface.
 
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/66ca5a0e-eab2-4dac-a0b2-f833c8e9be18" alt="DeepDream GIF Generator Demo">
-</p>
+
+
+https://github.com/user-attachments/assets/6bea964e-4b58-47c9-902c-bc8a1efb8c70
+
+
 
 
 ---
@@ -94,3 +96,4 @@ You can adjust the animation parameters directly in `src/animate.py`. Key variab
 
 This project is licensed under the MIT License.
   
+
