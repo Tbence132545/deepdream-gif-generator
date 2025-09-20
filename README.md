@@ -22,6 +22,9 @@ https://github.com/user-attachments/assets/6bea964e-4b58-47c9-902c-bc8a1efb8c70
 
 ---
 
+## How it works  
+This tool generates visuals using the idea of DeepDream, a computer vision technique developed by Google that finds and enhances patterns in images. You can learn more about the process from Google AI's original blog post: https://research.google/blog/inceptionism-going-deeper-into-neural-networks/
+
 
 ## Project Structure
 
@@ -96,4 +99,5 @@ You can adjust the animation parameters directly in `src/animate.py`. Key variab
 
 This project is licensed under the MIT License.
   
+
 
