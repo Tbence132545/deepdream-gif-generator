@@ -5,7 +5,11 @@ A user-friendly desktop application to generate DeepDream animations from images
 
 
 
-https://github.com/user-attachments/assets/6bea964e-4b58-47c9-902c-bc8a1efb8c70
+
+
+https://github.com/user-attachments/assets/02e4eda4-5cfe-42cf-bb48-77828304a2ae
+
+
 
 
 
@@ -99,5 +103,6 @@ You can adjust the animation parameters directly in `src/animate.py`. Key variab
 
 This project is licensed under the MIT License.
   
+
 
 
